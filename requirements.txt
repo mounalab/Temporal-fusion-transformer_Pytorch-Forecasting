@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+pytorch-lightning
+optuna
+scipy
+holidays >= 0.22
+joblib
+ipython
+ipykernel
+pytorch_forecasting >= 1.0.0
